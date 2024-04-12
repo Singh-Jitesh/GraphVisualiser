@@ -25,8 +25,8 @@ Enter the number of vertices( or number of rows of the matrix): 3
 Enter the elements of the matrix separated by space and each row on the next line:
 
 0 1 0
-1 0 1
 0 1 0
+1 0 1
 
 Dependencies
 Python 3.x
